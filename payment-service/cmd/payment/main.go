@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"log/slog"
 
-	"github.com/devfullcycle/imersao17/payment/internal/entity"
-	"github.com/devfullcycle/imersao17/payment/pkg/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
+	"github.com/tuliooov/imersao17/payment/internal/entity"
+	"github.com/tuliooov/imersao17/payment/pkg/rabbitmq"
 )
 
 // {"order_id": "123", "card_hash": "123", "total": 100.00}

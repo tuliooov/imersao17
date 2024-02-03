@@ -1,4 +1,4 @@
-module github.com/devfullcycle/imersao17/payment
+module github.com/tuliooov/imersao17/payment
 
 go 1.21.3
 

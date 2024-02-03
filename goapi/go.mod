@@ -1,4 +1,4 @@
-module github.com/devfullcycle/imersao17/goapi
+module github.com/tuliooov/imersao17/goapi
 
 go 1.21.3
 

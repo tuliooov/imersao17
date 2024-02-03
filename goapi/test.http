@@ -9,7 +9,7 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:8080/category/6b291e52-9aa1-43d4-a80f-aa005718e5c6 HTTP/1.1
+GET http://localhost:8080/category/12d44b1c-3322-4e99-b05f-e5a7a9bb10f9 HTTP/1.1
 Host: localhost:8080
 Content-Type: application/json
 
